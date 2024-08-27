@@ -1,4 +1,3 @@
-1. vite + react-ts
-2. install biome
-3. components > Button.tsx
-4. .vscode setting
+# Biome.js
+
+vite + react 환경에서 Biome.js를 사용합니다.
